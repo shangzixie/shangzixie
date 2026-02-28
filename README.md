@@ -6,8 +6,6 @@
 
 *独立开发者 · AI 创业 · 自动化产品落地*
 
-[**View with language toggle →**](https://shangzixie.github.io/shangzixie/)
-
 ---
 
 </div>
