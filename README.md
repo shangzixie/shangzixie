@@ -23,7 +23,7 @@ I've built many personal projects across automation, creator workflows, and AI a
 | **Huawei** | Aug 2024 – Aug 2025 |
 | **VMware** | Apr 2022 – Apr 2024 |
 | **Tencent** | Mar 2021 – Apr 2022 |
-| **Columbia University** | Jan 2020 – Jul 2020 |
+| **Columbia University** | Sep 2019 – Jan 2021 |
 
 ## AI Skills
 
@@ -53,7 +53,7 @@ Experienced in production engineering for large language models, including infer
 | **华为** | 2024.08 – 2025.08 |
 | **VMware** | 2022.04 – 2024.04 |
 | **腾讯** | 2021.03 – 2022.04 |
-| **哥伦比亚大学** | 2020.01 – 2020.07 |
+| **哥伦比亚大学** | 2019.09 – 2021.01 |
 
 ## AI 技能
 
